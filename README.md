@@ -31,3 +31,6 @@ Designed with Balsamiq wireframes, refined after two rounds of peer feedback (e.
 
 **Files:** PDF of my Word Document write-up, my app's (Balsamiq) Wireframes (PDF), and testing screen recordings (ZIP File).
 </div>
+
+---
+*README summarised and drafted with help from Claude (Anthropic), based on my own write-up documents.*
