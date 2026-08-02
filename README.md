@@ -1,10 +1,9 @@
 <div align="center">
   
-# --- Alex de Roeck ---
+# No Name Productivity
+### Level 3 Computing BTEC Coursework — Alex de Roeck
 
-## Level 3 Computing BTEC Coursework
-
-### Working Title: 'No Name Productivity'
+*Working Title: 'No Name Productivity'*
 
 </div>
 <div align="left">
