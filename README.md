@@ -6,6 +6,7 @@
 
 ### Working Title: 'No Name Productivity'
 
+</div>
 <div align="left">
 
 ### Overview
@@ -29,3 +30,4 @@ Designed with Balsamiq wireframes, refined after two rounds of peer feedback (e.
 *Please see the attached PDF of my project write-up for the full design, development, testing, and evaluation process.*
 
 **Files:** PDF of my Word Document write-up, my app's (Balsamiq) Wireframes (PDF), and testing screen recordings (ZIP File).
+</div>
